@@ -18,4 +18,4 @@ Intel OneAPI makes it to run faster than other notebooks.
   * tensorflow.keras.preprocessing.image
   # Accuracy Control
   * sklearn
-  The datasets and the images are attached.
+
